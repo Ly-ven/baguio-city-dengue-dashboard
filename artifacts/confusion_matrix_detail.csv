@@ -1,0 +1,5 @@
+confusion_type,count
+False Negative,1
+False Positive,1
+True Negative,12
+True Positive,4
